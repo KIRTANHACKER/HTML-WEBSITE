@@ -1,0 +1,157 @@
+html {
+    background: linear-gradient(indigo, rgb(0, 68, 124), rgb(1, 99, 103));
+    color: rgba(255, 255, 255, 0.814);
+    height: 110%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.div1 {
+    margin: auto;
+    background-color: rgb(30, 30, 44);
+    width: 60%;
+    height: 100vh;
+
+    border-radius: 1cm;
+    text-align: center;
+}
+
+.div2 {
+    margin: auto;
+    border-color: aqua;
+    width: 80%;
+    height: 80vh;
+    border-style: ashed;
+    text-align: left;
+
+}
+
+.line1 {
+    width: 90%;
+}
+
+
+.fname {
+    width: 6cm;
+    height: 20px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(30, 30, 48);
+    font-size: small;
+    border: 1px;
+
+    border-bottom-style: solid;
+
+}
+
+
+.lname {
+    width: 6cm;
+    height: 20px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(30, 30, 44);
+    font-size: small;
+    border: 1px;
+    border-bottom-style: solid;
+}
+
+.gender {
+
+    margin-right: 15%;
+    background-color: black;
+
+}
+
+.DOB {
+    background-color: rgb(30, 30, 44);
+    color: aliceblue;
+    border: 1px;
+    border-bottom-style: solid;
+    font-size: small;
+}
+
+.number {
+    background-color: rgb(30, 30, 44);
+    color: aliceblue;
+    border: 1px;
+    border-bottom-style: solid;
+
+    font-size: small;
+    height: 3vh;
+
+}
+
+.dropdown {
+    border: 1px;
+    border-style: olid;
+    width: 40%;
+    display: inline-block;
+    text-align: right;
+}
+
+.dlist {
+    background-color: rgb(24, 24, 67);
+    font-size: medium;
+    color: aliceblue;
+    border: 1px;
+    border-style: none;
+
+}
+
+.required {
+    color: rgba(241, 3, 3, 0.846);
+    display: inline-block;
+}
+
+.uname {
+    width: 6cm;
+    height: 20px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(30, 30, 48);
+    font-size: small;
+    border: 1px;
+
+    border-bottom-style: solid;
+}
+
+.email {
+    width: 6cm;
+    height: 20px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(30, 30, 48);
+    font-size: small;
+    border: 1px;
+
+    border-bottom-style: solid;
+}
+
+.pswd {
+    width: 6cm;
+    height: 20px;
+    color: rgb(196, 196, 196);
+    background-color: rgb(30, 30, 48);
+    font-size: small;
+    border: 1px;
+
+    border-bottom-style: solid;
+}
+.link1 {
+    color: rgb(45, 179, 0);
+}
+.button1 {
+    background-color:rgb(30, 30, 48);
+    transition-duration: 0.8s;
+    width: 50%;
+    height: 6vh;
+    border-radius: 0.5cm;
+    color: aliceblue;
+    font-size: large;
+    border: 1px;
+    border-top-style: inset;
+    border-bottom-style: inset;
+
+}
+
+.button1:hover {
+    background: linear-gradient(rgb(45, 155, 195), rgb(1, 132, 149), rgb(38, 176, 163));
+    border: 2px solid #000000af;
+}
